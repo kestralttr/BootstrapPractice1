@@ -1,0 +1,54 @@
+body {
+  background-color: #B6FB98;
+  padding-bottom: 0px;
+}
+
+.navbar {
+  background-color: white;
+  border: 0px solid Transparent;
+  /*box-shadow: 0px 3px 5px white;*/
+}
+
+.jumbotron {
+  background-color: white;
+}
+
+.navbar-default .navbar-nav > .active > a,
+.navbar-default .navbar-nav > .active > a:hover,
+.navbar-default .navbar-nav > .active > a:focus {
+  background-color: #98DEF5;
+}
+
+.footer{
+  background-color: white;
+  /*margin-bottom: 0px;
+  height:65px;*/
+  position: absolute;
+  left:0;
+  right:0;
+  height:50px;
+}
+
+.footer i {
+  padding-top:15px;
+  font-size:20px;
+}
+
+.footer p {
+  padding-top:15px;
+  font-size:15px;
+  text-align: center;
+}
+
+.footer-icons-flex {
+  display: flex;
+  justify-content: space-around;
+}
+
+.about-us-section {
+  font-size:18px;
+}
+
+.carousel-inner img {
+  margin: auto;
+}
